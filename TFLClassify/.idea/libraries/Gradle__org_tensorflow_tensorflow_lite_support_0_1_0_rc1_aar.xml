@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: org.tensorflow:tensorflow-lite-support:0.1.0-rc1@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/094ba60d436178fbc7665852db4eabd5/jetified-tensorflow-lite-support-0.1.0-rc1/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/094ba60d436178fbc7665852db4eabd5/jetified-tensorflow-lite-support-0.1.0-rc1/res" />
+      <root url="file://$PROJECT_DIR$/../.gradle/caches/transforms-2/files-2.1/094ba60d436178fbc7665852db4eabd5/jetified-tensorflow-lite-support-0.1.0-rc1/AndroidManifest.xml" />
+      <root url="file://D:/gradle-cache/caches/transforms-2/files-2.1/094ba60d436178fbc7665852db4eabd5/jetified-tensorflow-lite-support-0.1.0-rc1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/094ba60d436178fbc7665852db4eabd5/jetified-tensorflow-lite-support-0.1.0-rc1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/094ba60d436178fbc7665852db4eabd5/jetified-tensorflow-lite-support-0.1.0-rc1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/094ba60d436178fbc7665852db4eabd5/jetified-tensorflow-lite-support-0.1.0-rc1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
